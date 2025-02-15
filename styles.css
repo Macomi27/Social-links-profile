@@ -9,7 +9,7 @@
 body {
     font-family: 'Inter', sans-serif;
     background-color: hsl(0, 0%, 8%);
-    margin-bottom: 25%;
+    margin-bottom: 25px;
 }
 
 .parent{
@@ -22,7 +22,7 @@ body {
     width: 30%;
     height: auto;
     background-color: hsl(0, 0%, 12%);
-    margin-top: 25%;
+    margin-top: 25px;
     margin-bottom: 50px;
     border-radius: 10px;
 }
